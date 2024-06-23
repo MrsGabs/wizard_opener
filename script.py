@@ -11,7 +11,7 @@ pg.press("enter")
 
 time.sleep(1)
 
-pg.write("https://pearson.lti.elos.vc/rooms/671020747fc006267bec249795592dcfd7518737/scheduled_meetings/RplctsnYca1m/external")
+pg.write("www.link.com")
 
 pg.press("enter")
 
